@@ -1,3 +1,5 @@
+https://malinkang.com/posts/weread2notion-pro/
+
 # 将微信读书划线和笔记同步到Notion
 
 
